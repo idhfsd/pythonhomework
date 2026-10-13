@@ -1,5 +1,0 @@
-﻿cells总数: 21
-格1类型: markdown
-格1前3行: # 作业1：Data Types, Functions and Conditionals
-
-- 学号：________    姓名：________
